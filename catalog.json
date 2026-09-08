@@ -111,14 +111,12 @@
         "ma-durga-devi.png"
       ],
       "tags": {
-        "Daiva.png": "daiva bhuta kola tulunadu coastal deity god",
-        "Jai-Sree-Ram.png": "jai shree ram rama god hindu bhakti",
-        "Shiva-God.png": "shiva shankara mahadeva god",
-        "Shiva-Trishool.png": "shiva trishul trident god",
         "angry-hanuma.png": "hanuman hanuma anjaneya angry god",
         "baby-krishna.png": "krishna baby bala gopala god",
+        "Daiva.png": "daiva bhuta kola tulunadu coastal deity god",
         "devi-godess-eyes.png": "devi goddess eyes durga amma kannu",
         "ganapati.png": "ganapati ganesha vinayaka god chaturthi",
+        "ganesha-idol.png": "ganesha ganapati vinayaka idol chaturthi lotus modaka god",
         "god-cow.png": "cow gomata hasu sacred hindu",
         "godess-sharadhe.png": "sharade saraswati goddess vidya devi",
         "govinda.png": "govinda krishna vishnu venkateshwara god",
@@ -133,6 +131,7 @@
         "hanuma-rama-shiva-gods.png": "hanuman rama shiva gods trio bhakti",
         "hanuman-ji-ram.png": "hanuman ram bhakti god",
         "hindu-flag.png": "hindu flag saffron kesari dhwaj bhagwa",
+        "Jai-Sree-Ram.png": "jai shree ram rama god hindu bhakti",
         "koragajja.png": "koragajja daiva tulunadu coastal deity god",
         "krishna-with-flute.png": "krishna flute kolalu venu god",
         "lord-hanuma-dancing.png": "hanuman hanuma dancing god",
@@ -143,7 +142,9 @@
         "muddu-krishna-holding-flute.png": "krishna muddu flute kolalu baby god",
         "muddu-krishna.png": "krishna muddu baby bala god",
         "shiva-god-hands.png": "shiva hands namaskara god",
+        "Shiva-God.png": "shiva shankara mahadeva god",
         "shiva-hands-damaruga.png": "shiva damaru damaruga drum god",
+        "Shiva-Trishool.png": "shiva trishul trident god",
         "shivaji-maharaj.png": "shivaji maharaj maratha king warrior",
         "sun-logo.png": "sun surya logo emblem",
         "tilaka-shiva.png": "shiva tilaka tripundra namam forehead",
@@ -154,14 +155,12 @@
         "tulunadu-flag.png": "tulunadu flag baavuta coastal karnataka"
       },
       "desc": {
-        "Daiva.png": "Daiva (Tulu Nadu deity)",
-        "Jai-Sree-Ram.png": "Jai Shree Ram",
-        "Shiva-God.png": "Lord Shiva",
-        "Shiva-Trishool.png": "Shiva with the trishul",
         "angry-hanuma.png": "Angry Hanuman",
         "baby-krishna.png": "Baby Krishna",
+        "Daiva.png": "Daiva (Tulu Nadu deity)",
         "devi-godess-eyes.png": "Devi's eyes",
         "ganapati.png": "Ganapati",
+        "ganesha-idol.png": "Ganesha idol with lotus and modaka",
         "god-cow.png": "Sacred cow",
         "godess-sharadhe.png": "Goddess Sharade",
         "govinda.png": "Govinda",
@@ -176,6 +175,7 @@
         "hanuma-rama-shiva-gods.png": "Hanuman, Rama and Shiva",
         "hanuman-ji-ram.png": "Hanuman ji with Ram",
         "hindu-flag.png": "Saffron flag",
+        "Jai-Sree-Ram.png": "Jai Shree Ram",
         "koragajja.png": "Koragajja",
         "krishna-with-flute.png": "Krishna with the flute",
         "lord-hanuma-dancing.png": "Dancing Hanuman",
@@ -186,7 +186,9 @@
         "muddu-krishna-holding-flute.png": "Muddu Krishna with the flute",
         "muddu-krishna.png": "Muddu Krishna",
         "shiva-god-hands.png": "Shiva with folded hands",
+        "Shiva-God.png": "Lord Shiva",
         "shiva-hands-damaruga.png": "Shiva with the damaru",
+        "Shiva-Trishool.png": "Shiva with the trishul",
         "shivaji-maharaj.png": "Chhatrapati Shivaji Maharaj",
         "sun-logo.png": "Sun emblem",
         "tilaka-shiva.png": "Shiva tilaka",
@@ -437,6 +439,12 @@
           "name": "Diwali Greeting",
           "premium": true,
           "tags": "diwali deepavali festival lamp greeting"
+        },
+        {
+          "id": "ganesha-chaturthi-01",
+          "name": "Ganesha Chaturthi",
+          "premium": true,
+          "tags": "ganesha chaturthi ganapati vinayaka festival greeting habba shubhashaya ಗಣೇಶ ಚತುರ್ಥಿ"
         }
       ]
     },
