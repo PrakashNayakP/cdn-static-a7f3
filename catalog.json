@@ -383,35 +383,206 @@
   ],
   "templates": [
     {
-      "id": "nature",
-      "name": "Nature",
-      "order": 1,
-      "premium": [
-        "pexels-dropshado-32547449.jpg"
-      ]
-    },
-    {
       "id": "festive",
       "name": "Festive",
-      "order": 2,
-      "desc": {
-        "ganesha-chaturthi.png": "Ganesha Chaturthi background",
-        "raksha-bandhan.png": "Raksha Bandhan background"
-      },
+      "order": 1,
+      "premium": [
+        "ganesha-chaturthi.png",
+        "golden-trishul-and-marigold-garland.png"
+      ],
       "tags": {
-        "ganesha-chaturthi.png": "ganesha chaturthi ganapati vinayaka festival habba background ಗಣೇಶ ಚತುರ್ಥಿ",
-        "raksha-bandhan.png": "raksha bandhan rakhi festival habba background ರಕ್ಷಾಬಂಧನ"
+        "antique-ganesha-floral-parchment-poster.png": "antique ganesha floral parchment poster festival habba greeting devotional celebration",
+        "devotional-tilak-on-crimson-stone.png": "devotional tilak on crimson stone festival habba greeting devotional celebration",
+        "festive-shiva-damru-devotional-background.png": "festive shiva damru devotional background festival habba greeting devotional celebration",
+        "ganesha-chaturthi.png": "ganesha chaturthi festival habba greeting devotional celebration",
+        "golden-teal-peacock-feather-glow.png": "golden teal peacock feather glow festival habba greeting devotional celebration",
+        "golden-trishul-and-marigold-garland.png": "golden trishul and marigold garland festival habba greeting devotional celebration",
+        "ornate-red-and-gold-hanging-scroll.png": "ornate red and gold hanging scroll festival habba greeting devotional celebration",
+        "raksha-bandhan.png": "raksha bandhan festival habba greeting devotional celebration",
+        "saffron-shivaratri-trishul-poster-background.png": "saffron shivaratri trishul poster background festival habba greeting devotional celebration"
+      },
+      "desc": {
+        "antique-ganesha-floral-parchment-poster.png": "Antique ganesha floral parchment poster",
+        "devotional-tilak-on-crimson-stone.png": "Devotional tilak on crimson stone",
+        "festive-shiva-damru-devotional-background.png": "Festive shiva damru devotional background",
+        "ganesha-chaturthi.png": "Ganesha chaturthi",
+        "golden-teal-peacock-feather-glow.png": "Golden teal peacock feather glow",
+        "golden-trishul-and-marigold-garland.png": "Golden trishul and marigold garland",
+        "ornate-red-and-gold-hanging-scroll.png": "Ornate red and gold hanging scroll",
+        "raksha-bandhan.png": "Raksha bandhan",
+        "saffron-shivaratri-trishul-poster-background.png": "Saffron shivaratri trishul poster background"
+      }
+    },
+    {
+      "id": "invitation",
+      "name": "Invitation",
+      "order": 2,
+      "premium": [
+        "traditional-indian-wedding-kolam-poster.png",
+        "ornate-teal-arch-with-pink-lotuses.png"
+      ],
+      "tags": {
+        "dreamy-lotus-parchment-stationery-background.png": "dreamy lotus parchment stationery background invitation card wedding function ceremony border frame",
+        "elegant-floral-gold-frame-invitation-template.png": "elegant floral gold frame invitation template invitation card wedding function ceremony border frame",
+        "elegant-south-indian-festival-invitation-border.png": "elegant south indian festival invitation border invitation card wedding function ceremony border frame",
+        "festive-indian-parasol-invitation-frame.png": "festive indian parasol invitation frame invitation card wedding function ceremony border frame",
+        "ivory-lotuses-on-indigo-velvet.png": "ivory lotuses on indigo velvet invitation card wedding function ceremony border frame",
+        "navy-and-gold-botanical-invitation-frame.png": "navy and gold botanical invitation frame invitation card wedding function ceremony border frame",
+        "ornate-teal-arch-with-pink-lotuses.png": "ornate teal arch with pink lotuses invitation card wedding function ceremony border frame",
+        "pastel-om-lotus-invitation-card.png": "pastel om lotus invitation card invitation card wedding function ceremony border frame",
+        "traditional-indian-wedding-kolam-poster.png": "traditional indian wedding kolam poster invitation card wedding function ceremony border frame",
+        "watercolour-botanical-invitation-frame.png": "watercolour botanical invitation frame invitation card wedding function ceremony border frame"
+      },
+      "desc": {
+        "dreamy-lotus-parchment-stationery-background.png": "Dreamy lotus parchment stationery background",
+        "elegant-floral-gold-frame-invitation-template.png": "Elegant floral gold frame invitation template",
+        "elegant-south-indian-festival-invitation-border.png": "Elegant south indian festival invitation border",
+        "festive-indian-parasol-invitation-frame.png": "Festive indian parasol invitation frame",
+        "ivory-lotuses-on-indigo-velvet.png": "Ivory lotuses on indigo velvet",
+        "navy-and-gold-botanical-invitation-frame.png": "Navy and gold botanical invitation frame",
+        "ornate-teal-arch-with-pink-lotuses.png": "Ornate teal arch with pink lotuses",
+        "pastel-om-lotus-invitation-card.png": "Pastel om lotus invitation card",
+        "traditional-indian-wedding-kolam-poster.png": "Traditional indian wedding kolam poster",
+        "watercolour-botanical-invitation-frame.png": "Watercolour botanical invitation frame"
+      }
+    },
+    {
+      "id": "traditional",
+      "name": "Traditional",
+      "order": 3,
+      "premium": [
+        "kalamkari-radha-krishna-crimson-border.png",
+        "madhubani-ganesha-and-women-border.png"
+      ],
+      "tags": {
+        "burgundy-scrapbook-lotus-poster.png": "burgundy scrapbook lotus poster traditional indian art heritage ethnic folk",
+        "crimson-lotus-and-rangoli-border.png": "crimson lotus and rangoli border traditional indian art heritage ethnic folk",
+        "earthy-lotus-and-jasmine-still-life.png": "earthy lotus and jasmine still life traditional indian art heritage ethnic folk",
+        "ivory-lotuses-on-indigo-velvet.png": "ivory lotuses on indigo velvet traditional indian art heritage ethnic folk",
+        "kalamkari-elephant-on-parchment.png": "kalamkari elephant on parchment traditional indian art heritage ethnic folk",
+        "kalamkari-radha-krishna-crimson-border.png": "kalamkari radha krishna crimson border traditional indian art heritage ethnic folk",
+        "madhubani-ganesha-and-women-border.png": "madhubani ganesha and women border traditional indian art heritage ethnic folk",
+        "navy-blue-lotus-corner-artwork.png": "navy blue lotus corner artwork traditional indian art heritage ethnic folk",
+        "painterly-lotus-on-sage-green.png": "painterly lotus on sage green traditional indian art heritage ethnic folk",
+        "peacock-feathers-on-dark-marble.png": "peacock feathers on dark marble traditional indian art heritage ethnic folk",
+        "watercolour-krishna-radha-on-parchment.png": "watercolour krishna radha on parchment traditional indian art heritage ethnic folk"
+      },
+      "desc": {
+        "burgundy-scrapbook-lotus-poster.png": "Burgundy scrapbook lotus poster",
+        "crimson-lotus-and-rangoli-border.png": "Crimson lotus and rangoli border",
+        "earthy-lotus-and-jasmine-still-life.png": "Earthy lotus and jasmine still life",
+        "ivory-lotuses-on-indigo-velvet.png": "Ivory lotuses on indigo velvet",
+        "kalamkari-elephant-on-parchment.png": "Kalamkari elephant on parchment",
+        "kalamkari-radha-krishna-crimson-border.png": "Kalamkari radha krishna crimson border",
+        "madhubani-ganesha-and-women-border.png": "Madhubani ganesha and women border",
+        "navy-blue-lotus-corner-artwork.png": "Navy blue lotus corner artwork",
+        "painterly-lotus-on-sage-green.png": "Painterly lotus on sage green",
+        "peacock-feathers-on-dark-marble.png": "Peacock feathers on dark marble",
+        "watercolour-krishna-radha-on-parchment.png": "Watercolour krishna radha on parchment"
+      }
+    },
+    {
+      "id": "collage",
+      "name": "Collage",
+      "order": 4,
+      "premium": [
+        "vintage-pink-ribbon-scrapbook-collage.png",
+        "golden-bow-scrapbook-collage.png"
+      ],
+      "tags": {
+        "blue-gingham-scrapbook-collage.png": "blue gingham scrapbook collage collage scrapbook photo frame memories",
+        "burgundy-scrapbook-lotus-poster.png": "burgundy scrapbook lotus poster collage scrapbook photo frame memories",
+        "golden-bow-scrapbook-collage.png": "golden bow scrapbook collage collage scrapbook photo frame memories",
+        "navy-ocean-vintage-floral-stationery.png": "navy ocean vintage floral stationery collage scrapbook photo frame memories",
+        "pastel-polaroid-scrapbook-collage.png": "pastel polaroid scrapbook collage collage scrapbook photo frame memories",
+        "romantic-red-heart-scrapbook-collage.png": "romantic red heart scrapbook collage collage scrapbook photo frame memories",
+        "sage-torn-paper-floral-photo-collage.png": "sage torn paper floral photo collage collage scrapbook photo frame memories",
+        "sunflower-scrapbook-photo-template.png": "sunflower scrapbook photo template collage scrapbook photo frame memories",
+        "vintage-lotus-music-player.png": "vintage lotus music player collage scrapbook photo frame memories",
+        "vintage-pink-ribbon-scrapbook-collage.png": "vintage pink ribbon scrapbook collage collage scrapbook photo frame memories"
+      },
+      "desc": {
+        "blue-gingham-scrapbook-collage.png": "Blue gingham scrapbook collage",
+        "burgundy-scrapbook-lotus-poster.png": "Burgundy scrapbook lotus poster",
+        "golden-bow-scrapbook-collage.png": "Golden bow scrapbook collage",
+        "navy-ocean-vintage-floral-stationery.png": "Navy ocean vintage floral stationery",
+        "pastel-polaroid-scrapbook-collage.png": "Pastel polaroid scrapbook collage",
+        "romantic-red-heart-scrapbook-collage.png": "Romantic red heart scrapbook collage",
+        "sage-torn-paper-floral-photo-collage.png": "Sage torn paper floral photo collage",
+        "sunflower-scrapbook-photo-template.png": "Sunflower scrapbook photo template",
+        "vintage-lotus-music-player.png": "Vintage lotus music player",
+        "vintage-pink-ribbon-scrapbook-collage.png": "Vintage pink ribbon scrapbook collage"
+      }
+    },
+    {
+      "id": "paper",
+      "name": "Paper",
+      "order": 5,
+      "premium": [
+        "vintage-scrapbook-stationery-collage.png",
+        "watercolor-heart-on-textured-paper.png"
+      ],
+      "tags": {
+        "vintage-scrapbook-collage-with-blank-journal-space.png": "vintage scrapbook collage with blank journal space paper texture stationery plain background",
+        "vintage-scrapbook-stationery-collage.png": "vintage scrapbook stationery collage paper texture stationery plain background",
+        "watercolor-heart-on-textured-paper.png": "watercolor heart on textured paper paper texture stationery plain background"
+      },
+      "desc": {
+        "vintage-scrapbook-collage-with-blank-journal-space.png": "Vintage scrapbook collage with blank journal space",
+        "vintage-scrapbook-stationery-collage.png": "Vintage scrapbook stationery collage",
+        "watercolor-heart-on-textured-paper.png": "Watercolor heart on textured paper"
       }
     },
     {
       "id": "cinema",
       "name": "Cinema",
-      "order": 3
-    },
-    {
-      "id": "kannada",
-      "name": "Kannada",
-      "order": 4
+      "order": 6,
+      "premium": [
+        "Sudeep-Nammatra-BEda.jpg",
+        "Yash-Kirataka.jpg"
+      ],
+      "tags": {
+        "Funny-Darshan.jpeg": "darshan challenging star funny meme cinema movie actor kannada film",
+        "Nilsu-Darshan.jpeg": "darshan nilsu dialogue challenging star cinema movie actor kannada film",
+        "Rakshit-2.jpg": "rakshit shetty actor cinema movie actor kannada film",
+        "Rakshit-ENta-Saava.jpg": "rakshit shetty enta saava dialogue cinema movie actor kannada film",
+        "Rakshith-Shetty.jpeg": "rakshit shetty actor kirik party cinema movie actor kannada film",
+        "Sudeep-1.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-2.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-3.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-4.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-5.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-6.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-7.jpg": "sudeep kichcha actor cinema movie actor kannada film",
+        "Sudeep-Nammatra-BEda.jpg": "sudeep kichcha nammatra beda dialogue cinema movie actor kannada film",
+        "Sudeep-Ravichandran.jpeg": "sudeep kichcha ravichandran crazy star cinema movie actor kannada film",
+        "Swag-Darshan.jpeg": "darshan challenging star swag cinema movie actor kannada film",
+        "Uppi-1.jpg": "upendra uppi real star actor cinema movie actor kannada film",
+        "Uppi-Shivanna.jpg": "upendra uppi shivarajkumar shivanna hat trick cinema movie actor kannada film",
+        "Yash-Kirataka.jpg": "yash rocking star kirataka kgf cinema movie actor kannada film",
+        "darshan-background.jpg": "darshan challenging star backdrop cinema movie actor kannada film"
+      },
+      "desc": {
+        "Funny-Darshan.jpeg": "Darshan, funny",
+        "Nilsu-Darshan.jpeg": "Darshan — Nilsu",
+        "Rakshit-2.jpg": "Rakshit Shetty",
+        "Rakshit-ENta-Saava.jpg": "Rakshit Shetty — Enta Saava",
+        "Rakshith-Shetty.jpeg": "Rakshit Shetty",
+        "Sudeep-1.jpg": "Kichcha Sudeep",
+        "Sudeep-2.jpg": "Kichcha Sudeep",
+        "Sudeep-3.jpg": "Kichcha Sudeep",
+        "Sudeep-4.jpg": "Kichcha Sudeep",
+        "Sudeep-5.jpg": "Kichcha Sudeep",
+        "Sudeep-6.jpg": "Kichcha Sudeep",
+        "Sudeep-7.jpg": "Kichcha Sudeep",
+        "Sudeep-Nammatra-BEda.jpg": "Sudeep — Nammatra Beda",
+        "Sudeep-Ravichandran.jpeg": "Sudeep with Ravichandran",
+        "Swag-Darshan.jpeg": "Darshan, swag",
+        "Uppi-1.jpg": "Upendra",
+        "Uppi-Shivanna.jpg": "Upendra with Shivanna",
+        "Yash-Kirataka.jpg": "Yash — Kirataka",
+        "darshan-background.jpg": "Darshan backdrop"
+      }
     }
   ],
   "designs": [
