@@ -391,17 +391,22 @@
       ]
     },
     {
-      "id": "festival",
-      "name": "Festival",
-      "order": 2
+      "id": "festive",
+      "name": "Festive",
+      "order": 2,
+      "desc": {
+        "ganesha-chaturthi.png": "Ganesha Chaturthi background",
+        "raksha-bandhan.png": "Raksha Bandhan background"
+      },
+      "tags": {
+        "ganesha-chaturthi.png": "ganesha chaturthi ganapati vinayaka festival habba background ಗಣೇಶ ಚತುರ್ಥಿ",
+        "raksha-bandhan.png": "raksha bandhan rakhi festival habba background ರಕ್ಷಾಬಂಧನ"
+      }
     },
     {
       "id": "cinema",
       "name": "Cinema",
-      "order": 3,
-      "premium": [
-        ""
-      ]
+      "order": 3
     },
     {
       "id": "kannada",
@@ -428,12 +433,6 @@
       "name": "Festival",
       "order": 2,
       "items": [
-        {
-          "id": "raksha-bandhan-01",
-          "name": "Raksha Bandhan",
-          "premium": true,
-          "tags": "raksha bandhan rakhi festival greeting ರಕ್ಷಾಬಂಧನ"
-        },
         {
           "id": "diwali-01",
           "name": "Diwali Greeting",
