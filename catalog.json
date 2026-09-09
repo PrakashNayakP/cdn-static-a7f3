@@ -152,7 +152,8 @@
         "trishool.png": "trishul trident shiva weapon",
         "trishul-bw.png": "trishul trident shiva monochrome",
         "trishul.png": "trishul trident shiva weapon",
-        "tulunadu-flag.png": "tulunadu flag baavuta coastal karnataka"
+        "tulunadu-flag.png": "tulunadu flag baavuta coastal karnataka",
+        "baby-ganesha-peeking.png": "baby ganesha ganapati vinayaka peeking peacock feather crown cute god"
       },
       "desc": {
         "angry-hanuma.png": "Angry Hanuman",
@@ -196,7 +197,8 @@
         "trishool.png": "Trishul",
         "trishul-bw.png": "Trishul (black & white)",
         "trishul.png": "Trishul",
-        "tulunadu-flag.png": "Tulu Nadu flag"
+        "tulunadu-flag.png": "Tulu Nadu flag",
+        "baby-ganesha-peeking.png": "Baby Ganesha peeking"
       }
     },
     {
@@ -373,11 +375,13 @@
       ],
       "tags": {
         "decoration.png": "decoration ornament floral design border",
-        "hand-flower.png": "hand flower hoovu gesture"
+        "hand-flower.png": "hand flower hoovu gesture",
+        "ganesha-mouse-with-laddu.png": "mouse mushika rat laddu ganesha vahana festival cute"
       },
       "desc": {
         "decoration.png": "Decorative ornament",
-        "hand-flower.png": "Hand holding a flower"
+        "hand-flower.png": "Hand holding a flower",
+        "ganesha-mouse-with-laddu.png": "Ganesha’s mouse with a laddu"
       }
     }
   ],
@@ -399,7 +403,8 @@
         "golden-trishul-and-marigold-garland.png": "golden trishul and marigold garland festival habba greeting devotional celebration",
         "ornate-red-and-gold-hanging-scroll.png": "ornate red and gold hanging scroll festival habba greeting devotional celebration",
         "raksha-bandhan.png": "raksha bandhan festival habba greeting devotional celebration",
-        "saffron-shivaratri-trishul-poster-background.png": "saffron shivaratri trishul poster background festival habba greeting devotional celebration"
+        "saffron-shivaratri-trishul-poster-background.png": "saffron shivaratri trishul poster background festival habba greeting devotional celebration",
+        "jasmine-garland-brass-bells-parchment.png": "jasmine garland brass bells parchment om mandala diya lamp mango leaves festival habba greeting devotional celebration"
       },
       "desc": {
         "antique-ganesha-floral-parchment-poster.png": "Antique ganesha floral parchment poster",
@@ -410,7 +415,8 @@
         "golden-trishul-and-marigold-garland.png": "Golden trishul and marigold garland",
         "ornate-red-and-gold-hanging-scroll.png": "Ornate red and gold hanging scroll",
         "raksha-bandhan.png": "Raksha bandhan",
-        "saffron-shivaratri-trishul-poster-background.png": "Saffron shivaratri trishul poster background"
+        "saffron-shivaratri-trishul-poster-background.png": "Saffron shivaratri trishul poster background",
+        "jasmine-garland-brass-bells-parchment.png": "Jasmine garland and brass bells on parchment"
       }
     },
     {
@@ -615,6 +621,12 @@
           "name": "Ganesha Chaturthi",
           "premium": true,
           "tags": "ganesha chaturthi ganapati vinayaka festival greeting habba shubhashaya ಗಣೇಶ ಚತುರ್ಥಿ"
+        },
+        {
+          "id": "ganesha-chaturthi-02",
+          "name": "Ganesha Chaturthi Wishes",
+          "premium": true,
+          "tags": "ganesha chaturthi ganapati vinayaka mouse mushika festival greeting habba shubhashaya ಗಣೇಶ ಚತುರ್ಥಿ"
         }
       ]
     },
