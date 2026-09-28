@@ -34,7 +34,10 @@
         "Weekend-Kelsa-Madalla-Text.png": "weekend kelsa work funny attitude kannada text",
         "kannadave-jati-dharma.png": "kannada jati dharma pride kannadiga abhimana text",
         "karnadiga-sarvabhouma-text.png": "kannadiga sarvabhouma pride abhimana kannada text",
-        "nodi-swami-naavu-irode-heege-text.png": "nodi swami irode heege famous dialogue kannada text"
+        "nodi-swami-naavu-irode-heege-text.png": "nodi swami irode heege famous dialogue kannada text",
+        "barisu-kannada-dindimava-text.png": "barisu kannada dindimava kuvempu drum rajyotsava ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ",
+        "kannada-title.png": "kannada title wordmark stylish lettering ಕನ್ನಡ",
+        "karnataka-text-map.png": "karnataka kannada lettering bold gold red ಕರ್ನಾಟಕ"
       },
       "desc": {
         "Appa-Text.png": "Appa (father)",
@@ -60,7 +63,10 @@
         "Weekend-Kelsa-Madalla-Text.png": "Weekend kelsa madalla",
         "kannadave-jati-dharma.png": "Kannadave jati, Kannadave dharma",
         "karnadiga-sarvabhouma-text.png": "Kannadiga Sarvabhouma",
-        "nodi-swami-naavu-irode-heege-text.png": "Nodi swami naavu irode heege"
+        "nodi-swami-naavu-irode-heege-text.png": "Nodi swami naavu irode heege",
+        "barisu-kannada-dindimava-text.png": "Barisu Kannada Dindimava",
+        "kannada-title.png": "Kannada wordmark",
+        "karnataka-text-map.png": "Karnataka in Kannada lettering"
       }
     },
     {
@@ -84,7 +90,15 @@
         "RCB-Logo.png": "rcb royal challengers bengaluru cricket ipl logo",
         "karnataka-map-with-appu.png": "karnataka map appu puneeth state naadu",
         "rcb-18-cup.png": "rcb 18 kohli cup trophy ipl cricket bengaluru",
-        "rcb-logo-lion.png": "rcb lion logo cricket ipl bengaluru"
+        "rcb-logo-lion.png": "rcb lion logo cricket ipl bengaluru",
+        "basavanna.png": "basavanna basaveshwara vachana lingayat saint philosopher karnataka",
+        "bharatanatya-logo.png": "bharatanatya bharatanatyam classical dance dancer art karnataka",
+        "karnataka-india-map.png": "karnataka india map state highlighted location",
+        "karnataka-map-flag.png": "karnataka map outline flag red yellow kannada naadu",
+        "karnataka-map-places.png": "karnataka districts map jille places bengaluru mysuru names",
+        "karnataka-name-map.png": "karnataka wordmark logo one state many worlds map tourism",
+        "vijayanagara-text.png": "vijayanagara hampi stone chariot empire heritage ವಿಜಯನಗರ",
+        "yakshagana-logo.png": "yakshagana folk theatre dance headdress coastal karnataka ಯಕ್ಷಗಾನ"
       },
       "desc": {
         "Appu.png": "Puneeth Rajkumar (Appu)",
@@ -98,7 +112,15 @@
         "RCB-Logo.png": "RCB logo",
         "karnataka-map-with-appu.png": "Karnataka map with Appu",
         "rcb-18-cup.png": "RCB 18 with the trophy",
-        "rcb-logo-lion.png": "RCB lion logo"
+        "rcb-logo-lion.png": "RCB lion logo",
+        "basavanna.png": "Basavanna",
+        "bharatanatya-logo.png": "Bharatanatyam dancer",
+        "karnataka-india-map.png": "Karnataka on the India map",
+        "karnataka-map-flag.png": "Karnataka map with flag colours",
+        "karnataka-map-places.png": "Karnataka district map",
+        "karnataka-name-map.png": "Karnataka wordmark with state map",
+        "vijayanagara-text.png": "Vijayanagara with the Hampi chariot",
+        "yakshagana-logo.png": "Yakshagana"
       }
     },
     {
@@ -280,19 +302,6 @@
       }
     },
     {
-      "id": "meme",
-      "name": "Memes",
-      "order": 6,
-      "emojis": [],
-      "premium": [],
-      "tags": {
-        "meme-ajja.png": "ajja grandpa thatha meme funny kannada"
-      },
-      "desc": {
-        "meme-ajja.png": "Ajja meme"
-      }
-    },
-    {
       "id": "emoji",
       "name": "Emoji",
       "order": 7,
@@ -371,17 +380,20 @@
       "order": 9,
       "emojis": [],
       "premium": [
-        "decoration.png"
+        "decoration.png",
+        "ganesha-mouse-with-laddu.png"
       ],
       "tags": {
         "decoration.png": "decoration ornament floral design border",
         "hand-flower.png": "hand flower hoovu gesture",
-        "ganesha-mouse-with-laddu.png": "mouse mushika rat laddu ganesha vahana festival cute"
+        "ganesha-mouse-with-laddu.png": "mouse mushika rat laddu ganesha vahana festival cute",
+        "meme-ajja.png": "ajja grandpa old man red cap meme kannada troll"
       },
       "desc": {
         "decoration.png": "Decorative ornament",
         "hand-flower.png": "Hand holding a flower",
-        "ganesha-mouse-with-laddu.png": "Ganesha’s mouse with a laddu"
+        "ganesha-mouse-with-laddu.png": "Ganesha’s mouse with a laddu",
+        "meme-ajja.png": "Ajja, red cap"
       }
     }
   ],
@@ -525,8 +537,7 @@
       "name": "Paper",
       "order": 5,
       "premium": [
-        "vintage-scrapbook-stationery-collage.jpg",
-        "watercolor-heart-on-textured-paper.jpg"
+        "vintage-scrapbook-stationery-collage.jpg"
       ],
       "tags": {
         "vintage-scrapbook-collage-with-blank-journal-space.jpg": "vintage scrapbook collage with blank journal space paper texture stationery plain background",
